@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4ad4e0b-749e-48db-a572-ca732cf19b19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzD3udJToYGfIt3rkfjmiCu0vV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.addTest5">
+    <configuration name="CalculatorTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4-2-2020" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.addTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4-2-2020" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="addTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.addTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4-2-2020" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="addTest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.addTest5" />
+        <item itemvalue="JUnit.CalculatorTest.addTest2" />
+        <item itemvalue="JUnit.CalculatorTest.addTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ad4e0b-749e-48db-a572-ca732cf19b19" name="Default Changelist" comment="" />
+      <created>1585832832716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585832832716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3084" y="399" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585833951512">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-3084" y="399" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585833951512" />
+    <state width="1340" height="390" key="GridCell.Tab.0.bottom" timestamp="1585839814798">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585839814798" />
+    <state width="1340" height="390" key="GridCell.Tab.0.center" timestamp="1585839814798">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="390" key="GridCell.Tab.0.center/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585839814798" />
+    <state width="1340" height="390" key="GridCell.Tab.0.left" timestamp="1585839814798">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="390" key="GridCell.Tab.0.left/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585839814798" />
+    <state width="1340" height="390" key="GridCell.Tab.0.right" timestamp="1585839814798">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="390" key="GridCell.Tab.0.right/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585839814798" />
+    <state x="-3400" y="114" key="SettingsEditor" timestamp="1585835080276">
+      <screen x="-3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-3400" y="114" key="SettingsEditor/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-3840.0.1920.1080" timestamp="1585835080276" />
+  </component>
+</project>
